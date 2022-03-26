@@ -1,4 +1,4 @@
-yfinance==0.1.70
+yfinance == 0.1.70
 numpy == 1.20.1
 pandas == 1.2.4
 matplotlib == 3.3.4
@@ -6,5 +6,7 @@ seaborn  == 0.10.1
 scikit-learn == 1.0.2
 xgboost == 1.5.2
 joblib == 1.0.1
-mlxtend 0.20.0
-missingno 0.5.1
+mlxtend == 0.20.0
+missingno == 0.5.1
+plotly == 5.5.0
+shap == 0.40.0
